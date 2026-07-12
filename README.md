@@ -14,6 +14,8 @@ Built with **React 19**, **Vite**, **Express**, and styled using **Tailwind CSS 
 *   **Trip Dispatcher**: Live trip coordination showing dispatch schedules, origin/destination points, allocated drivers, assigned vehicles, and real-time transit state tracking.
 *   **Maintenance Log**: Tracks technical inspections, scheduled garage operations, costs, and mechanic reports.
 *   **Fuel & Expenses Logger**: Monitors diesel liters, total refueling costs, fuel efficiency analytics, and overall ledger bookkeeping of operational costs.
+ **Real-time Analytics**: High-quality **Recharts** integrations for fleet utilization, revenue vs. expense trends, and operational cost breakdowns.
+*   **Server-Side AI Assistance**: Power-assisted intelligence utilizing the **Gemini 2.5 Flash** model for smart suggestions, automation, and analytics insights.
 
 
 
